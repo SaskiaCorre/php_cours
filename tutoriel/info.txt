@@ -1,0 +1,4 @@
+Lien pour arriver sur la p.web
+http://localhost:8080/
+http://localhost/PHP/tutoriel/index.php
+http://localhost/PHP/tutoriel/formulaire.php
